@@ -1,6 +1,6 @@
   # A Docker web service
-  - type: web
-    name: webdis
+  - type: php
+    name: icecoder
     env: docker
     repo: https://github.com/OxideCheats-Public/icecoder4.git # optional
     region: ohio # optional (defaults to oregon)
